@@ -1,0 +1,8 @@
+{
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.useEditorConfig": false,
+    "prettier.packageManager": "yarn",
+    "prettier.withNodeModules": true,
+    "editor.formatOnSave": true
+}
