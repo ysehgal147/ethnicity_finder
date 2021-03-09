@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ysehgal147/ethnicity_finder/static/css/main.41246d79.chunk.css",
+    "main.js": "/ysehgal147/ethnicity_finder/static/js/main.2ab84499.chunk.js",
+    "main.js.map": "/ysehgal147/ethnicity_finder/static/js/main.2ab84499.chunk.js.map",
+    "runtime-main.js": "/ysehgal147/ethnicity_finder/static/js/runtime-main.0fedb349.js",
+    "runtime-main.js.map": "/ysehgal147/ethnicity_finder/static/js/runtime-main.0fedb349.js.map",
+    "static/js/2.6bc82e3b.chunk.js": "/ysehgal147/ethnicity_finder/static/js/2.6bc82e3b.chunk.js",
+    "static/js/2.6bc82e3b.chunk.js.map": "/ysehgal147/ethnicity_finder/static/js/2.6bc82e3b.chunk.js.map",
+    "static/js/3.d2af24e4.chunk.js": "/ysehgal147/ethnicity_finder/static/js/3.d2af24e4.chunk.js",
+    "static/js/3.d2af24e4.chunk.js.map": "/ysehgal147/ethnicity_finder/static/js/3.d2af24e4.chunk.js.map",
+    "index.html": "/ysehgal147/ethnicity_finder/index.html",
+    "static/css/main.41246d79.chunk.css.map": "/ysehgal147/ethnicity_finder/static/css/main.41246d79.chunk.css.map",
+    "static/js/2.6bc82e3b.chunk.js.LICENSE.txt": "/ysehgal147/ethnicity_finder/static/js/2.6bc82e3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fedb349.js",
+    "static/js/2.6bc82e3b.chunk.js",
+    "static/css/main.41246d79.chunk.css",
+    "static/js/main.2ab84499.chunk.js"
+  ]
+}
